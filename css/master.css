@@ -181,6 +181,9 @@
     padding-top: 20px;
     padding-bottom: 20px;
   }
+  .container{
+    max-width: none;
+  }
   #lezioni.container{
     width: 100%;
     background-color: white;
